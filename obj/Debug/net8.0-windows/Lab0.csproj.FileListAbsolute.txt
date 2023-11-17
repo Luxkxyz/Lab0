@@ -1,0 +1,16 @@
+D:\งาน\Virtual studio code\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.exe
+D:\งาน\Virtual studio code\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.deps.json
+D:\งาน\Virtual studio code\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.runtimeconfig.json
+D:\งาน\Virtual studio code\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.dll
+D:\งาน\Virtual studio code\Lab0\Lab0\bin\Debug\net8.0-windows\Lab0.pdb
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.Form1.resources
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.csproj.GenerateResource.cache
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.GeneratedMSBuildEditorConfig.editorconfig
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.AssemblyInfoInputs.cache
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.AssemblyInfo.cs
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.csproj.CoreCompileInputs.cache
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.dll
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\refint\Lab0.dll
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.pdb
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\Lab0.genruntimeconfig.cache
+D:\งาน\Virtual studio code\Lab0\Lab0\obj\Debug\net8.0-windows\ref\Lab0.dll
